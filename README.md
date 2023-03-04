@@ -1,2 +1,2 @@
-# WhatsUp_Developement
-This repository is to develop a chat application.
+# Selenium_Features
+This repository is to develop a reference for selenium features.
